@@ -3,7 +3,6 @@
     "password": "mypassword",
     "email": "johndoe@example.com",
     "phone": "1234567890",
-    "isActive": true,
     "role": "user"
   }
   
